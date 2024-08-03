@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **mentor2024/mentor2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mentorofaio@gmail.com
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I have been developing the plans for ISITAS and the ISIT Game for over 30 years now. 
--->
